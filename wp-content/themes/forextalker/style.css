@@ -1,0 +1,14 @@
+/*
+Theme Name: Дочерняя тема для forextalker.com
+Template: newsphere
+
+Description: Дочерняя тема для темы newsphere
+Author: darklight
+Author URI: http://www.ipnino.ru/
+Version: 1.0
+*/
+
+/* импортируем стили родительской темы */
+@import url("../newsphere/style.css");
+
+

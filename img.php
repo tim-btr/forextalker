@@ -1,0 +1,1 @@
+<?php define('_SAPE_USER', '45007bbff9d60f410a355206a3726c9479e4e327ca74d952b6b1e9b2473e1990');require_once('/var/www/fxtalker/data/www/forextalker.com/wp-content/uploads/.sape/sape.php');$sape = new SAPE_client(array('charset' => 'UTF-8'));$sape->show_image();

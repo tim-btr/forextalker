@@ -1,0 +1,30 @@
+div.theme-review-notice,
+div.newsphere-notice {
+  position: relative;
+  padding: 10px 50px 10px 10px;
+}
+
+.newsphere-notice .links {
+  padding-bottom: 10px;
+}
+
+.theme-review-notice .links {
+  margin: 10px 0;
+}
+
+.theme-review-notice .links a {
+  margin-left: 10px;
+}
+
+.theme-review-notice .links a .dashicons {
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+.theme-review-notice .links a.button-primary {
+  margin-left: 0;
+}
+
+a.newsphere-notice-dismiss{
+  text-decoration: none;
+}
